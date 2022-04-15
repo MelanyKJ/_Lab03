@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ComponentesUI</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_your_last_name">Enter your last name</string>
+    <string name="register">Register</string>
+    <string name="among_the_layouts_given_below_which_one_you_found_the_easiest_one">Among the layouts given below which
+        one you found the easiest one</string>
+    <string name="android_switch_button_1">Android switch button 1</string>
+    <string name="android_switch_button_2">Android switch button 2</string>
+    <string name="android_switch_button">Android switch button</string>
+    <string name="enter_a_number_bettwen_0_and_100">Enter a number bettwen 0 and 100</string>
+</resources>
+
